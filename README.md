@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Gamer-Bashi
-- 👀 just a simple discord developer
+- 👀 just a simple Web Developer
 - 🌱 I’m currently learning JavaScript
